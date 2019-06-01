@@ -50,6 +50,10 @@
     <Compile Include="FactoryMode\GenericParadigmFactory\IShape.cs" />
     <Compile Include="FactoryMode\GenericParadigmFactory\ShapeFactory.cs" />
     <Compile Include="FactoryMode\GenericParadigmFactory\Square.cs" />
+    <Compile Include="FactoryMode\LazyLoadFactory\Product.cs" />
+    <Compile Include="FactoryMode\LazyLoadFactory\Product1.cs" />
+    <Compile Include="FactoryMode\LazyLoadFactory\Product2.cs" />
+    <Compile Include="FactoryMode\LazyLoadFactory\ProductFactory.cs" />
     <Compile Include="FactoryMode\MultipleFactory\Circle.cs" />
     <Compile Include="FactoryMode\MultipleFactory\IShape.cs" />
     <Compile Include="FactoryMode\MultipleFactory\ShapeFactory.cs" />
@@ -62,6 +66,8 @@
     <Compile Include="FactoryMode\ReflectFactory\IShape.cs" />
     <Compile Include="FactoryMode\ReflectFactory\ShapeFactory.cs" />
     <Compile Include="FactoryMode\ReflectFactory\Square.cs" />
+    <Compile Include="FactoryMode\SingletonFactory\Singleton.cs" />
+    <Compile Include="FactoryMode\SingletonFactory\SingletonFactory.cs" />
     <Compile Include="FactoryMode\StaticFactory\Circle.cs" />
     <Compile Include="FactoryMode\StaticFactory\IShape.cs" />
     <Compile Include="FactoryMode\StaticFactory\ShapeFactory.cs" />
