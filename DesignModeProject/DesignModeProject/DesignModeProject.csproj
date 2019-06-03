@@ -41,6 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractFactoryMode\Example1\AbstractHumanFactory.cs" />
+    <Compile Include="AbstractFactoryMode\Example1\BlackHuman.cs" />
+    <Compile Include="AbstractFactoryMode\Example1\IHuman.cs" />
+    <Compile Include="AbstractFactoryMode\Example1\YellowHuman.cs" />
+    <Compile Include="AbstractFactoryMode\Example1\YellowHumanFactory.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\Blue.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\BlueCircleFactory.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\Circle.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\IColor.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\IFillColorShapeFactory.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\IShape.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\Square.cs" />
+    <Compile Include="AbstractFactoryMode\Example2\Yellow.cs" />
     <Compile Include="FactoryMode\AbstractFactory\AbstractShapeFactory.cs" />
     <Compile Include="FactoryMode\AbstractFactory\Circle.cs" />
     <Compile Include="FactoryMode\AbstractFactory\IShape.cs" />
