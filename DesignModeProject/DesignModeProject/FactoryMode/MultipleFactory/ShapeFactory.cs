@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// 多个工厂方法模式
-    /// 此时不再违背开闭原则
+    /// 违背开闭原则
     /// </summary>
     public class ShapeFactory
     {

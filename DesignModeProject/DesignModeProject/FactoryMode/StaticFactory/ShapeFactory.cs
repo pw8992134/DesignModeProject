@@ -2,6 +2,7 @@
 {
     /// <summary>
     /// 静态工厂方法模式
+    /// 违背
     /// </summary>
     public static class ShapeFactory
     {
